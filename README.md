@@ -1,7 +1,7 @@
 ![Banner](profile/automation_gif.gif)
 <!-- retro visitor counter -->
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/Darak7-code/count.svg" />
+  <img src="https://profile-counter.glitch.me/Darak7/count.svg" />
 </p>
 
 <!-- welcome message -->
@@ -49,12 +49,12 @@ Hi, my name is Steven. I'm a Data and Automation Engineer focused on automation,
 
 <p>
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darak7-code&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darak7&show_icons=true&hide_border=true" />
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darak7-code&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darak7&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
 ## 🏆 GitHub Trophies
-![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Darak7-code&theme=darkhub&no-frame=true&row=1)
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Darak7&theme=darkhub&no-frame=true&row=1)
