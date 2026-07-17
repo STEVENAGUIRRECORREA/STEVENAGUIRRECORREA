@@ -249,7 +249,7 @@ I'm actively improving in:
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=STEVENAGUIRRECORREA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
+    src="https://github-profile-trophy-liard-delta.vercel.app/?username=STEVENAGUIRRECORREA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
     alt="Trofeos de GitHub de Steven Aguirre"
   />
 </p>
