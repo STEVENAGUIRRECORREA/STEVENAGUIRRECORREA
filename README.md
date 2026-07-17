@@ -220,12 +220,11 @@ I'm actively improving in:
 ---
 
 ## GitHub statistics
-## GitHub statistics
 
 <p align="center">
   <img
     height="180"
-    src="https://github-stats-extended.vercel.app/api?username=Darak7&show_icons=true&hide_border=true&theme=transparent"
+    src="https://github-stats-extended.vercel.app/api?username=STEVENAGUIRRECORREA&show_icons=true&hide_border=true&theme=transparent"
     alt="Estadísticas de GitHub de Steven Aguirre"
   />
 </p>
@@ -233,11 +232,10 @@ I'm actively improving in:
 <p align="center">
   <img
     height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Darak7&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=STEVENAGUIRRECORREA&layout=compact&hide_border=true&theme=transparent"
     alt="Lenguajes más utilizados por Steven Aguirre"
   />
 </p>
-
 
 
 ---
