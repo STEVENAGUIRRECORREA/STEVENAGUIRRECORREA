@@ -221,14 +221,10 @@ I'm actively improving in:
 
 ## GitHub statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=STEVENAGUIRRECORREA&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0F2027&title_color=4FD1C5&icon_color=4FD1C5&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEVENAGUIRRECORREA&layout=compact&hide_border=true&theme=tokyonight&bg_color=0F2027&title_color=4FD1C5&text_color=c9d1d9" height="165" />
-</p>
+<p> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=STEVENAGUIRRECORREA&show_icons=true&hide_border=true" /> </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=STEVENAGUIRRECORREA&hide_border=true&theme=tokyonight&background=0F2027&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5" height="165" />
-</p>
+<p> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEVENAGUIRRECORREA&layout=compact&hide_border=true" /> </p> ```
+
 
 ---
 
