@@ -237,7 +237,12 @@ I'm actively improving in:
   />
 </p>
 
-
+<p align="center">
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com/?user=STEVENAGUIRRECORREA"
+  />
+</p>
 ---
 
 ## Connect with me
