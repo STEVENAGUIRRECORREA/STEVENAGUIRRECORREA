@@ -245,6 +245,16 @@ I'm actively improving in:
 </p>
 ---
 
+## GitHub trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=STEVENAGUIRRECORREA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
+    alt="Trofeos de GitHub de Steven Aguirre"
+  />
+</p>
+---
+
 ## Connect with me
 
 <p align="center">
